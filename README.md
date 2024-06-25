@@ -26,3 +26,5 @@ Before running the scripts, ensure the following:
 cd CentOS-8-CIS-Level-1-Server-Hardening
 
 sudo ./script.sh
+
+cat cis_compliance_check.txt
