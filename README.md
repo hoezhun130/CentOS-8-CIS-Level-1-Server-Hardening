@@ -24,4 +24,5 @@ Before running the scripts, ensure the following:
 
 ## Usage
 cd CentOS-8-CIS-Level-1-Server-Hardening
+
 sudo ./script.sh
